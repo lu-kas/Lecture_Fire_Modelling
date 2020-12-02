@@ -27,7 +27,7 @@
     - file: chapter4/subchapters/fundamentals_4
     - file: chapter4/subchapters/design_fires
 - file: chapter5/thermodynamics
-  section: 
+  sections: 
     - file: chapter5/subchapters/fundamentals5
       sectons:
         - file: chapter5/subchapters/jbooks/jbook51
@@ -35,31 +35,31 @@
     - file: chapter5/subchapters/validation_examples5
     - file: chapter5/subchapters/application_examples5
 - file: chapter6/combustion
-  section:
+  sections:
     - file: chapter6/subchapters/fundamentals_6
     - file: chapter6/subchapters/modelling_6
     - file: chapter6/subchapters/validation_examples_6
     - file: chapter6/subchapters/application_examples_6
 - file: chapter7/heat_transfer
-  section:
+  sections:
     - file: chapter7/subchapters/fundamentals_7
     - file: chapter7/subchapters/modelling_7
     - file: chapter7/subchapters/validation_examples_7
     - file: chapter7/subchapters/application_examples_7
 - file: chapter8/particles_and_droplets
-  section:
+  sections:
     - file: chapter8/subchapters/fundamentals_8
     - file: chapter8/subchapters/modelling_8
     - file: chapter8/subchapters/validation_examples_8
     - file: chapter8/subchapters/application_examples_8
 - file: chapter9/pyrolysis
-  section:
+  sections:
     - file: chapter9/subchapters/fundamentals_9
     - file: chapter9/subchapters/modelling_9
     - file: chapter9/subchapters/validation_examples_9
     - file: chapter9/subchapters/application_examples_9
 - file: chapter10/fire_dynamics_simulator+smokeview
-  section:
+  sections:
     - file: chapter10/subchapters/fds_overview
     - file: chapter10/subchapters/fds
       sections:
@@ -89,9 +89,9 @@
         - file: chapter11/subchapters/examples/particles
         - file: chapter11/subchapters/examples/volumetric_data
 - file: chapter12/high_performance_computing
-  section: 
+  sections: 
     - file: chapter12/subchapters/automation
-      section:
+      sections:
         - file: chapter12/subchapters/examples/automation_python
         - file: chapter12/subchapters/examples/input_files
         - file: chapter12/subchapters/examples/execution
